@@ -1,0 +1,21 @@
+body{
+background-color: crimson;
+    
+}
+.heading
+{
+font-size: 75px;
+width: 100%;
+margin: 0px;
+
+color: white;
+}
+
+#status
+{
+font-size: 25px;
+font-weight: bold
+}
+canvas{
+box-shadow:10px 10px 10px white;   
+}
